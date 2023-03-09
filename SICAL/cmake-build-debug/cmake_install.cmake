@@ -1,4 +1,4 @@
-# Install script for directory: /Users/macintosh/ProjectsX/C_Cpp_Proj/SCal
+# Install script for directory: /Users/macintosh/ProjectsX/C_Cpp_Proj/SICAL
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
