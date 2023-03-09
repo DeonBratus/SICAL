@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de83e07e-8669-4559-a1fb-7bc71cff924d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SICAL/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/.idea/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/.idea/untitled1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/Simpleclc.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/Simpleclc.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/Simpleclc.h" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/Simpleclc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a232c983346a6d3a1421.json" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a232c983346a6d3a1421.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-9c38dc7e36ace8c3919a.json" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-9c38dc7e36ace8c3919a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-75aacff7352f397863e7.json" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-75aacff7352f397863e7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-08T21-42-33-0107.json" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-08T21-42-33-0107.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.cmake/api/v1/reply/target-SCal-Debug-0d5140c26ca5dbdf9b87.json" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.cmake/api/v1/reply/target-SCal-Debug-0d5140c26ca5dbdf9b87.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-4a9184f18601f1895b6a.json" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-4a9184f18601f1895b6a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/simath" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/simath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/cmake-build-debug/simath.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/cmake-build-debug/simath.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/typeact.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/typeact.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCal/typeact.h" beforeDir="false" afterPath="$PROJECT_DIR$/SICAL/typeact.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mm32q3gDyDJ30dAcquL7WbAvTp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de83e07e-8669-4559-a1fb-7bc71cff924d" name="Changes" comment="" />
+      <created>1678358725708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678358725708</updated>
+      <workItem from="1678358727485" duration="47000" />
+      <workItem from="1678358776856" duration="12000" />
+      <workItem from="1678358820418" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
